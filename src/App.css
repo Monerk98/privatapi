@@ -1,0 +1,12 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+body
+{
+    background: linear-gradient(to right, #8e2de2, #4a00e0);
+    /* background: linear-gradient(to right, #5f2c82, #49a09d); */
+}
